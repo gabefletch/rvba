@@ -6,7 +6,7 @@ This repository hosts direct download access for recommended base apps for patch
 Click a version string below to jump to its release:
 - YouTube: [v18.19.35](https://github.com/gabefletch/ReVanced-BaseApps/releases/tag/YT-v18.19.35)
 - YouTube Music: [v5.39.52](https://github.com/gabefletch/ReVanced-BaseApps/releases/tag/M-v5.39.52)
-- Twitch: v14.6.1
+- Twitch: [v14.6.1](https://github.com/gabefletch/ReVanced-BaseApps/releases/tag/TW-v14.6.1)
 - Instagram*: v275.0.0.27.98
 
 ## Patches Per App
