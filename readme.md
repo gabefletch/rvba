@@ -5,10 +5,10 @@ This repository hosts direct download access for recommended base apps for patch
 Go to this repository's [releases](https://github.com/gabefletch/ReVanced-BaseApps/releases) to access respective APKs. 
 
 ## Current Suggested Versions
-- YouTube: v18.19.35
-- YouTube Music: v5.48.52
-- Twitch: v14.6.1
-- Instagram*: v275.0.0.27.98
+- YouTube: `v18.19.35`
+- YouTube Music: `v5.48.52`
+- Twitch: `v14.6.1`
+- Instagram*: `v275.0.0.27.98`
 
 *Optimal will support Instagram (Android only) in upcoming v11
 
