@@ -3,7 +3,7 @@
 This repository hosts direct download access for recommended base apps for patching through ReVanced Manager and the Optimal project. 
 
 ## Current Suggested Versions
-- YouTube: `v18.19.35`
+- YouTube: `[v18.19.35](https://github.com/gabefletch/ReVanced-BaseApps/releases/download/YT-v18.19.35/com.google.android.youtube_18.19.35-1537727936_minAPI26.arm64-v8a.armeabi-v7a.x86.x86_64.nodpi._apkmirror.com.apk)`
 - YouTube Music: `v5.48.52`
 - Twitch: `v14.6.1`
 - Instagram*: `v275.0.0.27.98`
