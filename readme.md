@@ -13,10 +13,10 @@ Click a version string below to jump to its release:
 
 ## Patches Per App
 Click an app below to be taken to its patch list on the ReVanced Site:
-- YouTube 
-- YouTube Music 
-- Twitch
-- Instagram
+- [YouTube](https://revanced.app/patches?pkg=com.google.android.youtube) 
+- [YouTube Music](https://revanced.app/patches?pkg=com.google.android.apps.youtube.music) 
+- [Twitch](https://revanced.app/patches?pkg=tv.twitch.android.app)
+- [Instagram](https://revanced.app/patches?pkg=com.instagram.android)
 
 *Optimal will support Instagram (Android only) in upcoming v11
 
