@@ -1,5 +1,7 @@
 # ReVanced Base Apps
 
+### This is almost certainly outdated at the moment.
+
 This repository hosts direct download access for recommended base apps for patching through ReVanced Manager and the Optimal project. 
 
 ## Current Suggested Versions
