@@ -4,6 +4,8 @@
 
 This respository will be extensively updated before the release of [Optimal v11](https://github.com/gabefletch/optimal-v11).<br>
 
+Visit the [Releases](https://github.com/gabefletch/ReVanced-BaseApps/releases) page if you'd still like to download APKs.<br>
+
 ## About
 This repository hosts direct download access for recommended base apps (APKs) for patching through ReVanced Manager and the Optimal project. Each app that is patchable through ReVanced Manager has a specific recommended version that will offer the greatest chance of success and/or patch compatibility.<br>
 
