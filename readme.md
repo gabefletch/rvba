@@ -26,3 +26,9 @@ Click an app below to be taken to its patch list on the ReVanced Site:
 - [YouTube Music](https://revanced.app/patches?pkg=com.google.android.apps.youtube.music) 
 - [Twitch](https://revanced.app/patches?pkg=tv.twitch.android.app)
 - [Instagram](https://revanced.app/patches?pkg=com.instagram.android)
+
+## What About (insert app)?
+### Reddit
+Optimal no longer supports access to any form of modifications applied to the official Reddit app as a decision to deter users from using it in any capacity. Reddit's recent decisions involving their API pricing has made it nearly impossible for third party developers to release their apps and earn a liveable wage from them.
+### Other Apps Supported by ReVanced
+Many of the other apps that can be patched via ReVanced Manager do not have patches that align with the goal of the Optimal project. For example, Spotify can be patched by ReVanced but does not have patches that unlock Premium features. So Optimal instead supports xManager which does allow for Premium unlocking.
