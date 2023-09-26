@@ -10,7 +10,7 @@ Visit the [Releases](https://github.com/gabefletch/ReVanced-BaseApps/releases) p
 ## About
 This repository hosts direct download access for recommended base apps (APKs) for patching through ReVanced Manager and the Optimal project. Each app that is patchable through ReVanced Manager has a specific recommended version that will offer the greatest chance of success and/or patch compatibility.<br>
 
-Optimal Download Link ▶ This Repo ▶ APK From This Repo ▶ ReVanced Manager ▶ Patched APK<br>
+Optimal Download Link ➜ This Repo ➜ APK From This Repo ➜ ReVanced Manager ➜ Patched APK<br>
 
 APKs dumped to this repo are sourced from [APKMirror](https://apkmirror.com).
 
