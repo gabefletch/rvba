@@ -1,5 +1,5 @@
 # ReVanced Base Apps
-<img src="https://github.com/gabefletch/ReVanced-BaseApps/assets/38300939/22547094-b96c-42e1-87dc-4b763f1d232" width=160>
+<img src="https://raw.githubusercontent.com/gabefletch/ReVanced-BaseApps/main/banner/rvba-banner.png" width=220>
 
 ### NOTE: This is almost certainly outdated at the moment.
 
