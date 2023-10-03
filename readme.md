@@ -14,13 +14,14 @@ APKs dumped to this repo are sourced from [APKMirror](https://apkmirror.com).
 ## Current Suggested Versions
 | App           | Version        | Patches | Download                                                                                                     |
 |---------------|----------------|---------|--------------------------------------------------------------------------------------------------------------|
-| YouTube       | v18.32.39      | 59      | [Universal Download](https://github.com/gabefletch/ReVanced-BaseApps/releases/tag/YT-v18.32.39)              |
-| YouTube Music | All Versions   | 12      | [Universal Download](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)    |
-| Twitch        | v15.4.1        | 7       | [Universal Download](https://github.com/gabefletch/ReVanced-BaseApps/releases/tag/TW-v15.4.1)                |
-| Instagram     | v275.0.0.27.98 | 1       | [Non-Universal Download](https://github.com/gabefletch/ReVanced-BaseApps/releases/tag/IG-v275.0.0.27.98)<br> |
+| YouTube       | v18.32.39      | 59      | [Get•🟩](https://github.com/gabefletch/ReVanced-BaseApps/releases/tag/YT-v18.32.39)              |
+| YouTube Music | All Versions   | 12      | [Get•🟩](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)    |
+| Twitch        | v15.4.1        | 7       | [Get•🟩](https://github.com/gabefletch/ReVanced-BaseApps/releases/tag/TW-v15.4.1)                |
+| Instagram     | v275.0.0.27.98 | 1       | [Get•🟨](https://github.com/gabefletch/ReVanced-BaseApps/releases/tag/IG-v275.0.0.27.98)<br> |
 
 _Apps that list "All Versions" will direct you to Google Play rather than a Github release._<br>
-_"Non-Universal Download" means that you need to know your device's CPU architecture to get the correct APK._
+🟩 Indicates a universal download; one APK works for all devices.<br>
+🟨 Indicates a non-universal download; you need a specific APK for your device.<br>
 
 ### How Do I Identify My CPU Architecture?
 [Click here](https://github.com/gabefletch/ReVanced-BaseApps/blob/main/cpu-arch-help.md) to learn how. This is only necessary for apps that list "Non-Universal download" above.
