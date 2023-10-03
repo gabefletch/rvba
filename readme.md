@@ -14,10 +14,10 @@ APKs dumped to this repo are sourced from [APKMirror](https://apkmirror.com).
 ## Current Suggested Versions
 
 Click a link below to be taken to its APK version download:
-- **YouTube**: `v18.32.39` with `59` patches >> [Universal Download](https://github.com/gabefletch/ReVanced-BaseApps/releases/tag/YT-v18.32.39)
-- **YouTube Music**: `All versions` with `12` patches >> [Universal Download](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
-- **Twitch**: `v15.4.1` with `7` patches >> [Universal Download](https://github.com/gabefletch/ReVanced-BaseApps/releases/tag/TW-v15.4.1)
-- **Instagram**: `v275.0.0.27.98` with `1` patch >> [Non-Universal Download](https://github.com/gabefletch/ReVanced-BaseApps/releases/tag/IG-v275.0.0.27.98)<br>
+- **YouTube**: `v18.32.39` with `59` patches ➜ [Universal Download](https://github.com/gabefletch/ReVanced-BaseApps/releases/tag/YT-v18.32.39)
+- **YouTube Music**: `All versions` with `12` patches ➜ [Universal Download](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
+- **Twitch**: `v15.4.1` with `7` patches ➜ [Universal Download](https://github.com/gabefletch/ReVanced-BaseApps/releases/tag/TW-v15.4.1)
+- **Instagram**: `v275.0.0.27.98` with `1` patch ➜ [Non-Universal Download](https://github.com/gabefletch/ReVanced-BaseApps/releases/tag/IG-v275.0.0.27.98)<br>
 
 _Apps that list_ `All versions` _will direct you to Google Play rather than a Github release._<br>
 _"Non-Universal Download" means that you need to know your device's CPU architecture to get the correct APK._
