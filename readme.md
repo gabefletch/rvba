@@ -16,14 +16,15 @@ APKs dumped to this repo are sourced from [APKMirror](https://apkmirror.com).
 Click "Get" under the "Download" column to be taken to its [Releases](https://github.com/gabefletch/ReVanced-BaseApps/releases) entry:
 | App           | Version        | Patches | Download                                                                                                     |
 |---------------|----------------|---------|--------------------------------------------------------------------------------------------------------------|
-| YouTube       | v18.32.39      | 59      | [Get • 🟩](https://github.com/gabefletch/ReVanced-BaseApps/releases/tag/YT-v18.32.39)              |
-| YouTube Music | All Versions   | 12      | [Get • 🟩](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)    |
-| Twitch        | v15.4.1        | 7       | [Get • 🟩](https://github.com/gabefletch/ReVanced-BaseApps/releases/tag/TW-v15.4.1)                |
-| Instagram     | v275.0.0.27.98 | 1       | [Get • 🟨](https://github.com/gabefletch/ReVanced-BaseApps/releases/tag/IG-v275.0.0.27.98)<br> |
+| YouTube       | v18.32.39      | 59      | [Get‎ ‎ ‎ 🟩](https://github.com/gabefletch/ReVanced-BaseApps/releases/tag/YT-v18.32.39)              |
+| YouTube Music | All Versions   | 12      | [Get‎ ‎ ‎ 🟩](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)    |
+| Twitch        | v15.4.1        | 7       | [Get‎ ‎ ‎ 🟩](https://github.com/gabefletch/ReVanced-BaseApps/releases/tag/TW-v15.4.1)                |
+| Instagram     | v275.0.0.27.98 | 1       | [Get‎ ‎ ‎ 🟨](https://github.com/gabefletch/ReVanced-BaseApps/releases/tag/IG-v275.0.0.27.98)<br> |
 
 _Apps that list "All Versions" will direct you to Google Play rather than a Github release._<br>
 🟩 Indicates a universal download; one APK works for all devices.<br>
 🟨 Indicates a non-universal download; you need a specific APK for your device.<br>
+🟥 Indicates there are known issues with the version provided.<br>
 
 ### How Do I Identify My CPU Architecture?
 [Click here](https://github.com/gabefletch/ReVanced-BaseApps/blob/main/cpu-arch-help.md) to learn how. This is only necessary for apps that list "Non-Universal download" above.
