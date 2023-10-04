@@ -1,4 +1,4 @@
-# ReVanced Base Apps
+# ReVanced Base Apps (RVBA)
 <img src="https://raw.githubusercontent.com/gabefletch/ReVanced-BaseApps/main/banner/rvba-banner.png" width=220>
 
 ### Last Updated: `9/29/2023` at `12:23PM EST`
