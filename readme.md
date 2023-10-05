@@ -42,3 +42,11 @@ Optimal no longer supports access to any form of modifications applied to the of
 Many of the other apps that can be patched via ReVanced Manager do not have patches that align with the goal of the Optimal project. For example, Spotify can be patched by ReVanced but does not have patches that unlock Premium features. So Optimal instead supports xManager which does allow for Premium unlocking.<br>
 
 We may decide to add other apps that are supported by ReVanced Manager as time goes by.
+
+## App IDs Key
+| App           | App ID                                                                                                                       |
+|---------------|------------------------------------------------------------------------------------------------------------------------------|
+| YouTube       | [com.google.android.youtube](https://play.google.com/store/apps/details?id=com.google.android.youtube)                       |
+| YouTube Music | [com.google.android.apps.youtube.music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) |
+| Twitch        | [tv.twitch.android.apps](https://play.google.com/store/apps/details?id=tv.twitch.android.apps)                               |
+| Instagram     | [com.instagram.android](https://play.google.com/store/apps/details?id=com.instagram.android)                                 |
