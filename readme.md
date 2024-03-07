@@ -2,7 +2,7 @@
 <img src="https://github.com/gabefletch/ReVanced-BaseApps/assets/38300939/efddcb78-61d1-45d6-8b1f-95d75485cd87" width=400>
 
 
-### Last Updated: `9/29/2023` at `12:23PM EST`
+### *Last Updated: `9/29/2023` at `12:23PM EST`
 ### Please note that Optimal v11 is still under active development. You can still continue to download APKs from this repo and patch them with ReVanced regardless of this.
 Need to quickly access this page? Use [dub.sh/rvba](https://dub.sh/rvba)
 
@@ -13,7 +13,7 @@ Optimal Download Link ➜ APK From This Repo ➜ ReVanced Manager ➜ Patched AP
 
 APKs dumped to this repo are sourced from [APKMirror](https://apkmirror.com).
 
-## Current Suggested Versions
+## Current Suggested Versions*
 Click "Get" under the "Download" column to be taken to its [Releases](https://github.com/gabefletch/ReVanced-BaseApps/releases) entry:
 | App           | Version        | Patches | Download                                                                                                     |
 |---------------|----------------|---------|--------------------------------------------------------------------------------------------------------------|
