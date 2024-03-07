@@ -9,7 +9,7 @@ Need to quickly access this page? Use [dub.sh/rvba](https://dub.sh/rvba)
 ## About
 This repository hosts direct download access for recommended base apps (APKs) for patching through [ReVanced](https://revanced.app) Manager and the [Optimal project](https://github.com/gabefletch/optimal-v11). Each app that is patchable through ReVanced Manager has a specific recommended version that will offer the greatest chance of success and/or patch compatibility.<br>
 
-Optimal Download Link ➜ This Repo ➜ APK From This Repo ➜ ReVanced Manager ➜ Patched APK<br>
+Optimal Download Link ➜ APK From This Repo ➜ ReVanced Manager ➜ Patched APK<br>
 
 APKs dumped to this repo are sourced from [APKMirror](https://apkmirror.com).
 
