@@ -12,7 +12,7 @@ Optimal Download Link ➜ APK From This Repo ➜ ReVanced Manager ➜ Patched AP
 APKs dumped to this repo are sourced from [APKMirror](https://apkmirror.com).
 
 ## Current Suggested Versions*
-Click "Get" under the "Download" column to be taken to its [Releases](https://github.com/gabefletch/ReVanced-BaseApps/releases) entry:
+Click "Get APK" under the "Download" column to be taken to its [Releases](https://github.com/gabefletch/ReVanced-BaseApps/releases) entry:
 | App           	| Version        	| Patches 	| Download                                                                                       	| CPU-VBI Type 	|
 |---------------	|----------------	|---------	|------------------------------------------------------------------------------------------------	|--------------	|
 | YouTube       	| v19.04.37      	| 55      	| [Get APK](https://github.com/gabefletch/rvba/releases/tag/YT-v19.04.37)                        	| 🟢 Universal  	|
