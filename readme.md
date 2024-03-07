@@ -22,10 +22,9 @@ Click "Get" under the "Download" column to be taken to its [Releases](https://gi
 | X (Twitter)   	| Any            	| 7       	| [Get APK](https://play.google.com/store/apps/details?id=com.twitter.android)                   	| 🟢 Universal  	|
 | Reddit        	| Any            	| 4       	| [Get APK](https://play.google.com/store/apps/details?id=com.reddit.frontpage)                  	| 🟢 Universal  	|
 
-_Apps that list "All Versions" will direct you to Google Play rather than a Github release._<br>
-🟩 Indicates a universal download; one APK works for all devices.<br>
-🟨 Indicates a non-universal download; you need a specific APK for your device.<br>
-🟥 Indicates there are known issues with the version provided.<br>
+> Apps that list "All Versions" will direct you to Google Play rather than a Github release.<br>
+🟢 Indicates a universal download; one APK works for all devices.<br>
+🟡 Indicates a separated (non-universal) download; you need a specific APK for your device based on your CPU.<br>
 
 ### How Do I Identify My CPU Architecture?
 [Click here](https://github.com/gabefletch/ReVanced-BaseApps/blob/main/cpu-arch-help.md) to learn how. This is only necessary for apps that list "Non-Universal download" above.
