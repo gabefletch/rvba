@@ -24,7 +24,7 @@ Click "Get" under the "Download" column to be taken to its [Releases](https://gi
 
 > Apps that list "All Versions" will direct you to Google Play rather than a Github release.<br>
 🟢 Indicates a universal download; one APK works for all devices.<br>
-🟡 Indicates a separated (non-universal) download; you need a specific APK for your device based on your CPU.<br>
+🟡 Indicates a separated (non-universal) download; multiple APKs for all CPU types.<br>
 
 ### How Do I Identify My CPU Architecture?
 [Click here](https://github.com/gabefletch/ReVanced-BaseApps/blob/main/cpu-arch-help.md) to learn how. This is only necessary for apps that list "Non-Universal download" above.
