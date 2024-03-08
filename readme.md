@@ -14,7 +14,7 @@ APKs dumped to this repo are sourced from [APKMirror](https://apkmirror.com).
 
 ## Current Suggested Versions*
 Click "Get APK" under the "Download" column to be taken to its [Releases](https://github.com/gabefletch/ReVanced-BaseApps/releases) entry:
-| App           	| Version        	| Patches 	| Download                                                                                       	| CPU-VBI Type 	|
+| App           	| Version        	| Patches 	| Download                                                                                       	| CPU-ABI Type 	|
 |---------------	|----------------	|---------	|------------------------------------------------------------------------------------------------	|--------------	|
 | YouTube       	| v19.04.37      	| 55      	| [Get APK](https://github.com/gabefletch/rvba/releases/tag/YT-v19.04.37)                        	| 🟢 Universal  	|
 | YouTube Music 	| Any            	| 12      	| [Get APK](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) 	| 🟢 Universal  	|
