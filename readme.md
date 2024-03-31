@@ -1,7 +1,7 @@
 # ReVanced Base Apps (rvba)
 <img src="https://github.com/gabefletch/rvba/assets/38300939/f10cc6fa-c59b-4d28-b8a9-4b2d856efe49" width=400><br>
 
-### *Packages Last Updated: `7 March 2024` at `6:02PM EST`
+### *Packages Last Updated: `31 March 2024` at `2:05PM EST`
 ### Please note that Optimal v11 is still under active development. You can still continue to download APKs from this repo and patch them with ReVanced regardless of this.
 Need to quickly access this page? Use [dub.sh/rvba](https://dub.sh/rvba)
 
@@ -16,16 +16,18 @@ APKs dumped to this repo are sourced from [APKMirror](https://apkmirror.com).
 Click "Get APK" under the "Download" column to be taken to its [Releases](https://github.com/gabefletch/ReVanced-BaseApps/releases) entry:
 | App           	| Version        	| Patches 	| Download                                                                                       	| CPU-ABI Type 	|
 |---------------	|----------------	|---------	|------------------------------------------------------------------------------------------------	|--------------	|
-| YouTube       	| v19.04.37      	| 55      	| [Get APK](https://github.com/gabefletch/rvba/releases/tag/YT-v19.04.37)                        	| 🟢 Universal  	|
+| YouTube       	| v19.09.37      	| 53      	| [Get APK](https://github.com/gabefletch/rvba/releases/tag/YT-v19.09.37)                        	| 🟢 Universal  	|
 | YouTube Music 	| Any            	| 12      	| [Get APK](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) 	| 🟢 Universal  	|
 | Twitch        	| v16.9.1        	| 6       	| [Get APK](https://github.com/gabefletch/rvba/releases/tag/TW-v16.9.1)                          	| 🟢 Universal  	|
-| Instagram     	| v275.0.0.27.98 	| 1       	| [Get APK](https://github.com/gabefletch/rvba/releases/tag/IG-v275.0.0.27.98)                   	| 🟡 Separated  	|
-| X (Twitter)   	| Any            	| 7       	| [Get APK](https://play.google.com/store/apps/details?id=com.twitter.android)                   	| 🟢 Universal  	|
-| Reddit        	| Any            	| 4       	| [Get APK](https://play.google.com/store/apps/details?id=com.reddit.frontpage)                  	| 🟢 Universal  	|
+| Instagram     	| Any 	| 1       	| [Get APK](https://play.google.com/store/apps/details?id=com.instagram.android)                  	| 🔵 Play Store  	|
+| X (Twitter)   	| Any            	| 7       	| [Get APK](https://play.google.com/store/apps/details?id=com.twitter.android)                   	| 🔵 Play Store  	|
+| Reddit        	| Any            	| 4       	| [Get APK](https://play.google.com/store/apps/details?id=com.reddit.frontpage)                  	| 🔵 Play Store  	|
 
 > Apps that list "All Versions" will direct you to Google Play rather than a Github release.<br>
 🟢 Indicates a universal download; one APK works for all devices.<br>
+🔵 Indicates a Google Play Store link; any version will work for patching, making Play Store downloading the easiest option for end-users.<br>
 🟡 Indicates a separated (non-universal) download; multiple APKs for all CPU types.<br>
+🔴 Indicates some sort of issue with patching.<br>
 
 ### How Do I Identify My CPU Architecture?
 [Click here](https://github.com/gabefletch/ReVanced-BaseApps/blob/main/cpu-arch-help.md) to learn how. This is only necessary for apps that list "Non-Universal download" above.
