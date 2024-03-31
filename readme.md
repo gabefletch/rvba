@@ -17,16 +17,16 @@ Click "Get APK" under the "Download" column to be taken to its [Releases](https:
 | App           	| Version        	| Patches 	| Download                                                                                       	| CPU-ABI Type 	|
 |---------------	|----------------	|---------	|------------------------------------------------------------------------------------------------	|--------------	|
 | YouTube       	| v19.09.37      	| 53      	| [Get APK](https://github.com/gabefletch/rvba/releases/tag/YT-v19.09.37)                        	| 🟢 Universal  	|
-| YouTube Music 	| Any            	| 12      	| [Get APK](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) 	| 🟢 Universal  	|
+| YouTube Music 	| Any            	| 12      	| [Get APK](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) 	| 🔵 Play Store  	|
 | Twitch        	| v16.9.1        	| 6       	| [Get APK](https://github.com/gabefletch/rvba/releases/tag/TW-v16.9.1)                          	| 🟢 Universal  	|
 | Instagram     	| Any 	| 1       	| [Get APK](https://play.google.com/store/apps/details?id=com.instagram.android)                  	| 🔵 Play Store  	|
 | X (Twitter)   	| Any            	| 7       	| [Get APK](https://play.google.com/store/apps/details?id=com.twitter.android)                   	| 🔵 Play Store  	|
 | Reddit        	| Any            	| 4       	| [Get APK](https://play.google.com/store/apps/details?id=com.reddit.frontpage)                  	| 🔵 Play Store  	|
 
 > Apps that list "All Versions" will direct you to Google Play rather than a Github release.<br>
-🟢 Indicates a universal download; one APK works for all devices.<br>
-🔵 Indicates a Google Play Store link; any version will work for patching.<br>
-🟡 Indicates a separated (non-universal) download; multiple APKs for all CPU types.<br>
+🟢 Indicates a universal CPU APK; one APK works for all devices.<br>
+🔵 Indicates a Play Store link; any version will work for patching.<br>
+🟡 Indicates separate CPU APKs; multiple APKs for all CPU types.<br>
 🔴 Indicates some sort of issue with patching.<br>
 
 ### How Do I Identify My CPU Architecture?
