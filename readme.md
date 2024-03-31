@@ -25,7 +25,7 @@ Click "Get APK" under the "Download" column to be taken to its [Releases](https:
 
 > Apps that list "All Versions" will direct you to Google Play rather than a Github release.<br>
 🟢 Indicates a universal download; one APK works for all devices.<br>
-🔵 Indicates a Google Play Store link; any version will work for patching, making Play Store downloading the easiest option for end-users.<br>
+🔵 Indicates a Google Play Store link; any version will work for patching.<br>
 🟡 Indicates a separated (non-universal) download; multiple APKs for all CPU types.<br>
 🔴 Indicates some sort of issue with patching.<br>
 
