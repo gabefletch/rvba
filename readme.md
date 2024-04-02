@@ -3,7 +3,7 @@
 
 ### *Packages Last Updated: `31 March 2024` at `2:05PM EST`
 ### Please note that Optimal v11 is still under active development. You can still continue to download APKs from this repo and patch them with ReVanced regardless of this.
-Need to quickly access this page? Use [dub.sh/rvba](https://dub.sh/rvba)
+RVBA now has a much easier to use Web-UI at [gabefletch.me/rvba](https://gabefletch.me/rvba).
 
 ## About
 This repository hosts direct download access for recommended base apps (APKs) for patching through [ReVanced](https://revanced.app) Manager and the [Optimal project](https://github.com/gabefletch/optimal-v11). Each app that is patchable through ReVanced Manager has a specific recommended version that will offer the greatest chance of success and/or patch compatibility.<br>
