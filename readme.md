@@ -1,8 +1,8 @@
 # ReVanced Base Apps (rvba)
-<img src="https://github.com/gabefletch/rvba/assets/38300939/f10cc6fa-c59b-4d28-b8a9-4b2d856efe49" width=400><br>
+<img src="https://github.com/user-attachments/assets/c6f9d80b-edbb-4135-b919-b597f467d0e3" width=325><br>
 
 ### *Packages Last Updated: `31 March 2024` at `2:05PM EST`
-### Please note that Optimal v11 is still under active development. You can still continue to download APKs from this repo and patch them with ReVanced regardless of this.
+### RVBA and Optimal v11 are undergoing major revisions. You can still use RVBA to patch apps with ReVanced Manager but they may not be the most up-to-date target versions.
 
 RVBA's web UI is being rewritten.
 
