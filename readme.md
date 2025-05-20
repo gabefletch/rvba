@@ -1,6 +1,9 @@
 # ReVanced Base Apps (rvba)
 <img src="https://github.com/user-attachments/assets/c6f9d80b-edbb-4135-b919-b597f467d0e3" width=325><br>
 
+> [!IMPORTANT]
+> Packages on this repository were last updated on 28 February 2025. RVBA and the Optimal Project, which it was made for, are being fully rewritten. There is currently no ETA for when this process will be completed for Optimal v11 and RVBA v2. Everything below this banner should be treated as a deprecated archive.
+
 ### *Packages Last Updated: `31 March 2024` at `2:05PM EST`
 ### RVBA and Optimal v11 are undergoing major revisions. You can still use RVBA to patch apps with ReVanced Manager but they may not be the most up-to-date target versions.
 
